@@ -1,0 +1,35 @@
+  {
+  "author": {
+    "name": "Leonardo Manuel Alvarez"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Toastnotify es una biblioteca ligera de notificaciones pure vanilla JS.",
+  "directories": {
+    "example": "example"
+  },
+  "homepage": "https://github.com/alvarez25leo/toastnotify",
+  "keywords": [
+    "toastnotify",
+    "notifications",
+    "javascript",
+    "toast",
+    "vue",
+    "react",
+    "responsive",
+    "front-end",
+    "framework",
+    "web",
+    "laravel"
+  ],
+  "license": "MIT",
+  "main": "dist/toastnotify.js",
+  "name": "toastnotify",
+  "peerDependencies": {
+    "animate.css": "^3.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.1"
+}
