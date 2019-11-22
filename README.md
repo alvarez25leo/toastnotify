@@ -5,7 +5,11 @@
   <br>
 </p>
 
+## install
 
+```text
+npm i toastnotify
+```
 
 ## Qué está incluido
 
