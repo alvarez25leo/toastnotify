@@ -5,7 +5,7 @@
   <br>
 </p>
 
-## install
+## Install
 
 ```text
 npm i toastnotify
