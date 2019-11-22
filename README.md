@@ -5,19 +5,6 @@
   <br>
 </p>
 
-<p align="center">
-  <a href="http://pixmawebdesign.com/library/toastnotify/">
-    <img src="http://www.pixmawebdesign.com/library/toastnotify/img/toastnotify.JPG" alt="toastnotify" style="width: auto; height: auto; max-width: 100%;">
-  </a>
-</p>
-
-
- 
- <p >
- <a href="http://pixmawebdesign.com/library/toastnotify/" style="font-size:17px; color: rgb(137, 86, 255);">Documentación y demo</a>
- </p>
-
-
 
 
 ## Qué está incluido
@@ -43,10 +30,10 @@ toastnotify/
     Toastnotify.create({
         text:"Habilita las notificaciones de escritorio para Gmail.",
         type:'dark',
-        callbackOk: function(){
+        callbackOk:()=>{
             console.log('Precionado OK');
         },
-        callbackCancel:function(){
+        callbackCancel:()=>{
             console.log('Precionado Cancelado');
         }
     });
